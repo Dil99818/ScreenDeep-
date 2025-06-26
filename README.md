@@ -1,4 +1,4 @@
-# ScreenDeep
+# DeepScreen
 
 DeepScreen - AI-Powered Job Analysis: Transform job descriptions into actionable insights for smarter resume screening.
 
@@ -10,6 +10,7 @@ This project builds an AI-powered job analyzer that helps recruiters and hiring 
 - Streamlit
 - OpenAI (GPT-4)
 - NLP & ML
+- LLM
 - Pandas, NumPy, Scikit-Learn
 
 ## Installation
